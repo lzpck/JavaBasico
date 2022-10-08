@@ -1,2 +1,2 @@
 # CursoEmVideo
- Java para iniciantes e POO com o Guanabara
+ Java para iniciantes
